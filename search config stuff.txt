@@ -1,0 +1,11 @@
+Skillset name: azureblob-skillset
+Content field: merged_content
+Enrichment granularity: document
+Storage Account: tassoscgsstr
+
+============
+Skillset name: azureblob-skillset
+Content field: merged_content
+Enrichment granularity: document
+Storage Account: tassoscgsstr
+SAS Uri: https://tassoscgsstr.blob.core.windows.net/?sv=2015-04-05&ss=bfqt&srt=sco&sp=rl&se=2023-02-12T17%3A07%3A17.0000000Z&sig=vq21t1X2qFN7di9AzfCzdffQG6mdP4Oaf%2FOZezYifsM%3D
